@@ -17,7 +17,7 @@
 </head>
 <body>
     <div class="container" style="margin-top: 30px;">
-        <h3 align="center" style="margin-bottom: 20px;">To Do List</h3>
+        <h3 align="center" style="margin-bottom: 20px;">Item List</h3>
         
         <!-- shopping cart form -->
         <form method="POST" id="api_form_shopchart">
